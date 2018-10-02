@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e5768fdf093f545488b19b3d97543aa1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cereja: {fileID: 1258619697034462, guid: 281342dd6b0da794fa10b655bf8bbfc8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

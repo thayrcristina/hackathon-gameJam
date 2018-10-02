@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 00f0f71c004025a43b7b1906c29450f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Botao: {fileID: 1495363015560274, guid: e0babfe1cbfc1024189278fff20d01b1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

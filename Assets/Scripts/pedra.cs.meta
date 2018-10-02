@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b4e5869e0586e6443b8585405104f969
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fantasmaM1: {fileID: 1904882162654094, guid: 01843e09e750ec7499698aef12769581,
+      type: 2}
+  - fantasmaM2: {fileID: 1904882162654094, guid: 01843e09e750ec7499698aef12769581,
+      type: 2}
+  - fantasmaP1: {fileID: 1793596010625304, guid: de73ed72d6e5d1745a65218bf9c66ef7,
+      type: 2}
+  - fantasmaP2: {fileID: 1793596010625304, guid: de73ed72d6e5d1745a65218bf9c66ef7,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
